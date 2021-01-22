@@ -67,16 +67,12 @@ An example iterative version can be invoked through the Potassco Clingo solver b
 clingo iterative/qdes.lp iterative/qsim.lp iterative/run-py.lp db.lp preds.lp show.lp instances/db_ball.lp instances/goals_ball.lp
 ```
 
-## Qualitative Actions
-
-To generate qualitative actions corresponding to the QSIM sequence
-
 ## Example instances (qualitative models)
 ASP-QSIM provides the following example models:
-* Ball (```db_ball``) - The classic qualitative system of a bouncing ball
-* Bathtub (```db_bathtub``) - The classic qualitative system of a single bathtub being filled from an input faucet
-* Cascading tanks (```db_tanks_3/5/10``) - A cascading sequence of water tanks where the overflow from one tank leads into each tank in sequence. Models for 3, 5 and, 10 tanks are provided
-* Pole-and-Cart (```db_pole_cart``) - The classic robot system of a pole-and-cart
+* Ball (```db_ball```) - The classic qualitative system of a bouncing ball
+* Bathtub (```db_bathtub```) - The classic qualitative system of a single bathtub being filled from an input faucet
+* Cascading tanks (```db_tanks_3/5/10```) - A cascading sequence of water tanks where the overflow from one tank leads into each tank in sequence. Models for 3, 5 and, 10 tanks are provided
+* Pole-and-Cart (```db_pole_cart```) - The classic robot system of a pole-and-cart
 
 Example goals for each model are also provided.
 
@@ -97,7 +93,7 @@ ASP-QSIM is compatible with:
 Copyright (C) 2017 
 The University of New South Wales, Sydney, Australia.
 
-Dr. Timothy Wiley
+Dr. Timothy Wiley.
 
 # References
 
