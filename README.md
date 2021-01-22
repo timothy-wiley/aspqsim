@@ -26,7 +26,8 @@ ASP-QSIM is designed to be modular, with the ASP predicates separated across mul
 The desired functionality can be selected by invoking the ASP solver.
 
 The minimum files that are necessary to invoke ASP-QSIM are:
-1. ```db.ld``` - process the qualitative model of the selected instance
+1. ```db.ld``` - process the qualitative model to generate lanmdarks and intervals for the selected instance
+
 1. ```preds.ld``` - QSIM predicates and facts (without time)
 1. ```show.ld``` - Control the Clingo output 
 

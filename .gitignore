@@ -1,0 +1,8 @@
+
+# VIM Files
+*.swp
+*.swo
+
+# Python copmile files
+*.pyc
+
