@@ -20,6 +20,10 @@ Features of ASP-QSIM include:
 The ASP-QSIM algorithm was originally described in Wiley, Sammut & Bratko (2014) and is based on the original description of the QSIM (Qualitative SIMulation) algorithm from Kuipers (1986).
 The algorithm is part of Wiley's PhD thesis (2017). More details of the ASP-QSIM algorithm and it's application for planning robot actions can be found in the thesis publication (Wiley 2017).
 
+## Contact
+
+Please contact [Dr. Timothy Wiley, RMIT University][10] for additional information and advice about this software and related publications.
+
 # Running
 
 ASP-QSIM is designed to be modular, with the ASP predicates separated across multiple files.
@@ -107,4 +111,4 @@ See the [UNSW Website for IP and Copyright information][4] for PhD Thesis.
 [2]: http://ebooks.iospress.nl/volumearticle/37059
 [3]: http://handle.unsw.edu.au/1959.4/58775
 [4]: https://subjectguides.library.unsw.edu.au/copyright/Copyright_and_thesis
-
+[10]: https://timothy-wiley.github.io
