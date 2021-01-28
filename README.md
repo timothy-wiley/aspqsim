@@ -95,9 +95,9 @@ ASP-QSIM is compatible with:
 * Python v2.7 (for invoking the iterative ASP solver)
 
 # Copyright
-Copyright (C) Dr. Timothy Wiley 2017 
-The University of New South Wales, Sydney, Australia.
+Copyright (C) Dr. Timothy Wiley 2017.
 
+A PhD Thesis completed at The University of New South Wales, Sydney, Australia.
 See the [UNSW Website for IP and Copyright information][4] for PhD Thesis.
 
 # References
